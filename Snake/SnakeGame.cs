@@ -20,7 +20,7 @@ namespace Snake
         /// <summary>
         ///     The size of each segment of the Snake
         /// </summary>
-        private const int SIZE = 10;
+        private const int SIZE = 15;
 
         /// <summary>
         ///     Brush used when painting the body of the Snake
